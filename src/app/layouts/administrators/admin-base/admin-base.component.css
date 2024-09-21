@@ -1,0 +1,13 @@
+.admin_header_class{
+    border: solid 2px red;
+}
+
+.admin_main_class{
+    border: solid 2px blue;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.admin_footer_class{
+    border:solid 2px red;
+}
